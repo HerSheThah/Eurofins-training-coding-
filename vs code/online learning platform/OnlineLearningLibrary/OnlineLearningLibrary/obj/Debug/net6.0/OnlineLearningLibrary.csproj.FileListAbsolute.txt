@@ -1,0 +1,14 @@
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\bin\Debug\net6.0\OnlineLearningLibrary.deps.json
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\bin\Debug\net6.0\OnlineLearningLibrary.runtimeconfig.json
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\bin\Debug\net6.0\OnlineLearningLibrary.dll
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\bin\Debug\net6.0\OnlineLearningLibrary.pdb
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\OnlineLearningLibrary.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\OnlineLearningLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\OnlineLearningLibrary.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\OnlineLearningLibrary.AssemblyInfo.cs
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\OnlineLearningLibrary.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\OnlineLearningLibrary.dll
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\refint\OnlineLearningLibrary.dll
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\OnlineLearningLibrary.pdb
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\OnlineLearningLibrary.genruntimeconfig.cache
+C:\Eurofins training\vs code\online learning platform\OnlineLearningLibrary\OnlineLearningLibrary\obj\Debug\net6.0\ref\OnlineLearningLibrary.dll

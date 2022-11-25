@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.exe
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.deps.json
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.runtimeconfig.json
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.dll
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\bin\Debug\net6.0\interfaceexample.pdb
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.AssemblyInfo.cs
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.dll
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\refint\interfaceexample.dll
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.pdb
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\interfaceexample.genruntimeconfig.cache
+C:\Eurofins training\vs code\interfaceexample\interfaceexample\obj\Debug\net6.0\ref\interfaceexample.dll

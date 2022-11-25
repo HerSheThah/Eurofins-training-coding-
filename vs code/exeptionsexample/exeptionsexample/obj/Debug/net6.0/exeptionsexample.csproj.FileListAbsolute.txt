@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\bin\Debug\net6.0\exeptionsexample.exe
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\bin\Debug\net6.0\exeptionsexample.deps.json
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\bin\Debug\net6.0\exeptionsexample.runtimeconfig.json
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\bin\Debug\net6.0\exeptionsexample.dll
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\bin\Debug\net6.0\exeptionsexample.pdb
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\exeptionsexample.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\exeptionsexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\exeptionsexample.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\exeptionsexample.AssemblyInfo.cs
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\exeptionsexample.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\exeptionsexample.dll
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\refint\exeptionsexample.dll
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\exeptionsexample.pdb
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\exeptionsexample.genruntimeconfig.cache
+C:\Eurofins training\vs code\exeptionsexample\exeptionsexample\obj\Debug\net6.0\ref\exeptionsexample.dll

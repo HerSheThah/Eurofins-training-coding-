@@ -1,0 +1,15 @@
+C:\Eurofins training\assignmentday1\assignmentday1\bin\Debug\net6.0\assignmentday1.exe
+C:\Eurofins training\assignmentday1\assignmentday1\bin\Debug\net6.0\assignmentday1.deps.json
+C:\Eurofins training\assignmentday1\assignmentday1\bin\Debug\net6.0\assignmentday1.runtimeconfig.json
+C:\Eurofins training\assignmentday1\assignmentday1\bin\Debug\net6.0\assignmentday1.dll
+C:\Eurofins training\assignmentday1\assignmentday1\bin\Debug\net6.0\assignmentday1.pdb
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\assignmentday1.csproj.AssemblyReference.cache
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\assignmentday1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\assignmentday1.AssemblyInfoInputs.cache
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\assignmentday1.AssemblyInfo.cs
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\assignmentday1.csproj.CoreCompileInputs.cache
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\assignmentday1.dll
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\refint\assignmentday1.dll
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\assignmentday1.pdb
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\assignmentday1.genruntimeconfig.cache
+C:\Eurofins training\assignmentday1\assignmentday1\obj\Debug\net6.0\ref\assignmentday1.dll

@@ -1,0 +1,15 @@
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\day1.csproj.AssemblyReference.cache
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\day1.AssemblyInfoInputs.cache
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\day1.AssemblyInfo.cs
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\day1.csproj.CoreCompileInputs.cache
+C:\Eurofins training\day1\day1\bin\Debug\net6.0\day1.exe
+C:\Eurofins training\day1\day1\bin\Debug\net6.0\day1.deps.json
+C:\Eurofins training\day1\day1\bin\Debug\net6.0\day1.runtimeconfig.json
+C:\Eurofins training\day1\day1\bin\Debug\net6.0\day1.dll
+C:\Eurofins training\day1\day1\bin\Debug\net6.0\day1.pdb
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\day1.dll
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\refint\day1.dll
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\day1.pdb
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\day1.genruntimeconfig.cache
+C:\Eurofins training\day1\day1\obj\Debug\net6.0\ref\day1.dll

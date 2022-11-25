@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\genericexample\genericexample\bin\Debug\net6.0\genericexample.exe
+C:\Eurofins training\vs code\genericexample\genericexample\bin\Debug\net6.0\genericexample.deps.json
+C:\Eurofins training\vs code\genericexample\genericexample\bin\Debug\net6.0\genericexample.runtimeconfig.json
+C:\Eurofins training\vs code\genericexample\genericexample\bin\Debug\net6.0\genericexample.dll
+C:\Eurofins training\vs code\genericexample\genericexample\bin\Debug\net6.0\genericexample.pdb
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\genericexample.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\genericexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\genericexample.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\genericexample.AssemblyInfo.cs
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\genericexample.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\genericexample.dll
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\refint\genericexample.dll
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\genericexample.pdb
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\genericexample.genruntimeconfig.cache
+C:\Eurofins training\vs code\genericexample\genericexample\obj\Debug\net6.0\ref\genericexample.dll

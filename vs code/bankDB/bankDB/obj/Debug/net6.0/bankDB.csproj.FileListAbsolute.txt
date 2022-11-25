@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\bankDB\bankDB\bin\Debug\net6.0\bankDB.deps.json
+C:\Eurofins training\vs code\bankDB\bankDB\bin\Debug\net6.0\bankDB.dll
+C:\Eurofins training\vs code\bankDB\bankDB\bin\Debug\net6.0\bankDB.pdb
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\bankDB.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\bankDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\bankDB.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\bankDB.AssemblyInfo.cs
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\bankDB.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\bankDB.dll
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\refint\bankDB.dll
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\bankDB.pdb
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\ref\bankDB.dll
+C:\Eurofins training\vs code\bankDB\bankDB\bin\Debug\net6.0\banklibrary.dll
+C:\Eurofins training\vs code\bankDB\bankDB\bin\Debug\net6.0\banklibrary.pdb
+C:\Eurofins training\vs code\bankDB\bankDB\obj\Debug\net6.0\bankDB.csproj.CopyComplete

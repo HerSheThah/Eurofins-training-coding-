@@ -1,0 +1,12 @@
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\bin\Debug\net6.0\calculatorlogic.deps.json
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\bin\Debug\net6.0\calculatorlogic.dll
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\bin\Debug\net6.0\calculatorlogic.pdb
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\calculatorlogic.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\calculatorlogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\calculatorlogic.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\calculatorlogic.AssemblyInfo.cs
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\calculatorlogic.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\calculatorlogic.dll
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\refint\calculatorlogic.dll
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\calculatorlogic.pdb
+C:\Eurofins training\vs code\calculatorlogic\calculatorlogic\obj\Debug\net6.0\ref\calculatorlogic.dll

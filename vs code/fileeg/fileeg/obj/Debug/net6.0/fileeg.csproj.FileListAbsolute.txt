@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\fileeg\fileeg\bin\Debug\net6.0\fileeg.exe
+C:\Eurofins training\vs code\fileeg\fileeg\bin\Debug\net6.0\fileeg.deps.json
+C:\Eurofins training\vs code\fileeg\fileeg\bin\Debug\net6.0\fileeg.runtimeconfig.json
+C:\Eurofins training\vs code\fileeg\fileeg\bin\Debug\net6.0\fileeg.dll
+C:\Eurofins training\vs code\fileeg\fileeg\bin\Debug\net6.0\fileeg.pdb
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\fileeg.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\fileeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\fileeg.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\fileeg.AssemblyInfo.cs
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\fileeg.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\fileeg.dll
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\refint\fileeg.dll
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\fileeg.pdb
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\fileeg.genruntimeconfig.cache
+C:\Eurofins training\vs code\fileeg\fileeg\obj\Debug\net6.0\ref\fileeg.dll

@@ -1,0 +1,30 @@
+C:\Eurofins training\restmanag\restmanag\bin\Debug\net6.0\restmanag.exe
+C:\Eurofins training\restmanag\restmanag\bin\Debug\net6.0\restmanag.deps.json
+C:\Eurofins training\restmanag\restmanag\bin\Debug\net6.0\restmanag.runtimeconfig.json
+C:\Eurofins training\restmanag\restmanag\bin\Debug\net6.0\restmanag.dll
+C:\Eurofins training\restmanag\restmanag\bin\Debug\net6.0\restmanag.pdb
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\restmanag.csproj.AssemblyReference.cache
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\restmanag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\restmanag.AssemblyInfoInputs.cache
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\restmanag.AssemblyInfo.cs
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\restmanag.csproj.CoreCompileInputs.cache
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\restmanag.dll
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\refint\restmanag.dll
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\restmanag.pdb
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\restmanag.genruntimeconfig.cache
+C:\Eurofins training\restmanag\restmanag\obj\Debug\net6.0\ref\restmanag.dll
+C:\Eurofins training\vs code\restmanag\restmanag\bin\Debug\net6.0\restmanag.exe
+C:\Eurofins training\vs code\restmanag\restmanag\bin\Debug\net6.0\restmanag.deps.json
+C:\Eurofins training\vs code\restmanag\restmanag\bin\Debug\net6.0\restmanag.runtimeconfig.json
+C:\Eurofins training\vs code\restmanag\restmanag\bin\Debug\net6.0\restmanag.dll
+C:\Eurofins training\vs code\restmanag\restmanag\bin\Debug\net6.0\restmanag.pdb
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\restmanag.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\restmanag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\restmanag.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\restmanag.AssemblyInfo.cs
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\restmanag.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\restmanag.dll
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\refint\restmanag.dll
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\restmanag.pdb
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\restmanag.genruntimeconfig.cache
+C:\Eurofins training\vs code\restmanag\restmanag\obj\Debug\net6.0\ref\restmanag.dll

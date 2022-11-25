@@ -1,0 +1,6 @@
+C:\Eurofins training\vs code\unittestingeg\calculationtest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Eurofins training\vs code\unittestingeg\calculationtest\obj\Debug\net6.0\calculationtest.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\unittestingeg\calculationtest\obj\Debug\net6.0\calculationtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\unittestingeg\calculationtest\obj\Debug\net6.0\calculationtest.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\unittestingeg\calculationtest\obj\Debug\net6.0\calculationtest.AssemblyInfo.cs
+C:\Eurofins training\vs code\unittestingeg\calculationtest\obj\Debug\net6.0\calculationtest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\arrayexample\arrayexample\bin\Debug\net6.0\arrayexample.exe
+C:\Eurofins training\vs code\arrayexample\arrayexample\bin\Debug\net6.0\arrayexample.deps.json
+C:\Eurofins training\vs code\arrayexample\arrayexample\bin\Debug\net6.0\arrayexample.runtimeconfig.json
+C:\Eurofins training\vs code\arrayexample\arrayexample\bin\Debug\net6.0\arrayexample.dll
+C:\Eurofins training\vs code\arrayexample\arrayexample\bin\Debug\net6.0\arrayexample.pdb
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\arrayexample.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\arrayexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\arrayexample.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\arrayexample.AssemblyInfo.cs
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\arrayexample.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\arrayexample.dll
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\refint\arrayexample.dll
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\arrayexample.pdb
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\arrayexample.genruntimeconfig.cache
+C:\Eurofins training\vs code\arrayexample\arrayexample\obj\Debug\net6.0\ref\arrayexample.dll

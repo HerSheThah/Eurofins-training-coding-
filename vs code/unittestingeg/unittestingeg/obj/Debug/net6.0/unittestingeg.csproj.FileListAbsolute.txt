@@ -1,0 +1,5 @@
+C:\Eurofins training\vs code\unittestingeg\unittestingeg\obj\Debug\net6.0\unittestingeg.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\unittestingeg\unittestingeg\obj\Debug\net6.0\unittestingeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\unittestingeg\unittestingeg\obj\Debug\net6.0\unittestingeg.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\unittestingeg\unittestingeg\obj\Debug\net6.0\unittestingeg.AssemblyInfo.cs
+C:\Eurofins training\vs code\unittestingeg\unittestingeg\obj\Debug\net6.0\unittestingeg.csproj.CoreCompileInputs.cache

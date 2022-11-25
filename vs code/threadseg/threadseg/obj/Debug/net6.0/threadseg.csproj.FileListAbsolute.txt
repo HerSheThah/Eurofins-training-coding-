@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\threadseg\threadseg\bin\Debug\net6.0\threadseg.exe
+C:\Eurofins training\vs code\threadseg\threadseg\bin\Debug\net6.0\threadseg.deps.json
+C:\Eurofins training\vs code\threadseg\threadseg\bin\Debug\net6.0\threadseg.runtimeconfig.json
+C:\Eurofins training\vs code\threadseg\threadseg\bin\Debug\net6.0\threadseg.dll
+C:\Eurofins training\vs code\threadseg\threadseg\bin\Debug\net6.0\threadseg.pdb
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\threadseg.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\threadseg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\threadseg.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\threadseg.AssemblyInfo.cs
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\threadseg.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\threadseg.dll
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\refint\threadseg.dll
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\threadseg.pdb
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\threadseg.genruntimeconfig.cache
+C:\Eurofins training\vs code\threadseg\threadseg\obj\Debug\net6.0\ref\threadseg.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "threadseg", "threadseg\threadseg.csproj", "{656F2505-D907-42AF-BA3D-17740CAD6A89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656F2505-D907-42AF-BA3D-17740CAD6A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656F2505-D907-42AF-BA3D-17740CAD6A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656F2505-D907-42AF-BA3D-17740CAD6A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656F2505-D907-42AF-BA3D-17740CAD6A89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73101ECA-B406-44A6-87F8-3DF3552A850E}
+	EndGlobalSection
+EndGlobal

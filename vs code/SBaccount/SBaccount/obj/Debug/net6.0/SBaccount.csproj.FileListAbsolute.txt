@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\SBaccount\SBaccount\bin\Debug\net6.0\SBaccount.exe
+C:\Eurofins training\vs code\SBaccount\SBaccount\bin\Debug\net6.0\SBaccount.deps.json
+C:\Eurofins training\vs code\SBaccount\SBaccount\bin\Debug\net6.0\SBaccount.runtimeconfig.json
+C:\Eurofins training\vs code\SBaccount\SBaccount\bin\Debug\net6.0\SBaccount.dll
+C:\Eurofins training\vs code\SBaccount\SBaccount\bin\Debug\net6.0\SBaccount.pdb
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\SBaccount.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\SBaccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\SBaccount.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\SBaccount.AssemblyInfo.cs
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\SBaccount.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\SBaccount.dll
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\refint\SBaccount.dll
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\SBaccount.pdb
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\SBaccount.genruntimeconfig.cache
+C:\Eurofins training\vs code\SBaccount\SBaccount\obj\Debug\net6.0\ref\SBaccount.dll

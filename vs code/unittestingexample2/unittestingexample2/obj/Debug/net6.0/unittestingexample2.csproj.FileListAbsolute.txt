@@ -1,0 +1,15 @@
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\bin\Debug\net6.0\unittestingexample2.exe
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\bin\Debug\net6.0\unittestingexample2.deps.json
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\bin\Debug\net6.0\unittestingexample2.runtimeconfig.json
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\bin\Debug\net6.0\unittestingexample2.dll
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\bin\Debug\net6.0\unittestingexample2.pdb
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\unittestingexample2.csproj.AssemblyReference.cache
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\unittestingexample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\unittestingexample2.AssemblyInfoInputs.cache
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\unittestingexample2.AssemblyInfo.cs
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\unittestingexample2.csproj.CoreCompileInputs.cache
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\unittestingexample2.dll
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\refint\unittestingexample2.dll
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\unittestingexample2.pdb
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\unittestingexample2.genruntimeconfig.cache
+C:\Eurofins training\vs code\unittestingexample2\unittestingexample2\obj\Debug\net6.0\ref\unittestingexample2.dll
